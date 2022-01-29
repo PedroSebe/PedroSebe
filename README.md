@@ -15,6 +15,7 @@ My name is Pedro Sebe (he/him), I am a bioinformatician/data scientist in Brazil
 <details><summary>Programming languages</summary>
   <ul>
     <li>Experient in Python and Bash</li>
+    <li>Learning R</li>
     <li>Notions of C, JS and PHP</li>
   </ul>
 </details>
@@ -42,6 +43,7 @@ My name is Pedro Sebe (he/him), I am a bioinformatician/data scientist in Brazil
     <li>Version control with <b>Git</b>.</li>
     <li>Basic relational database queries with <b>SQL</b></li>
     <li>Basic queries to graph databases with <b>Neo4j</b></li>
+    <li>Learning <b>Tidyverse</b> tools for data analysis in R.</li>
   </ul>
 </details>
 
