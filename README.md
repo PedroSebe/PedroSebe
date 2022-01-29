@@ -1,4 +1,4 @@
-# Who am I?
+# 🚀 Who am I?
 My name is Pedro Sebe (he/him), I am a bioinformatician/data scientist in Brazil. I studied Molecular Sciences at Universidade de São Paulo, and today I work with Bioinformatics and Data Science at [Varsomics/Hospital Albert Einstein](https://varsomics.com/). I am also a grad student at Universidade de São Paulo, studying the mutational signatures of cancer and [how to detect them in clinical samples](https://github.com/PedroSebe/signature-inference)
 
 # ✨ My main interests
