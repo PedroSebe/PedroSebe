@@ -1,9 +1,7 @@
-## 💻 What do I do?
-- Working with Bioinformatics and Data Science @ [Varsomics/Hospital Albert Einstein](https://varsomics.com/)
-- Grad student @ Universidade de São Paulo, studying the mutational signatures of cancer and [how to detect them in clinical samples](https://github.com/PedroSebe/signature-inference)
-- Recently graduated in Molecular Sciences @ Universidade de São Paulo
+# Who am I?
+My name is Pedro Sebe (he/him), I am a bioinformatician/data scientist in Brazil. I studied Molecular Sciences at Universidade de São Paulo, and today I work with Bioinformatics and Data Science at [Varsomics/Hospital Albert Einstein](https://varsomics.com/). I am also a grad student at Universidade de São Paulo, studying the mutational signatures of cancer and [how to detect them in clinical samples](https://github.com/PedroSebe/signature-inference)
 
-## ✨ My main interests
+# ✨ My main interests
 <details><summary>Bioinformatics</summary>
   Bioinformatics is the interdisciplinary area applying methods from Computer Science to solve Biology problems, specially in Molecular Biology. I have experience using Bioinformatics tools to analyse data from the clinical lab at Hospital Albert Einstein, in the areas of Oncology (detection of fusions in RNAseq, identification of mutational signatures) and Metagenomics/Metatranscriptomics (identification of pathogens).
 </details>
@@ -13,7 +11,7 @@
 <details><summary>Machine learning</summary>
 </details>
 
-## ✔️ My skills
+# ✔️ My skills
 <details><summary>Programming languages</summary>
   <ul>
     <li>Experient in Python and Bash</li>
