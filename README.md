@@ -1,11 +1,11 @@
 # 🚀 Who am I?
 - My name is Pedro Sebe (he/him)
-- I am a data scientist/bioinformatician in Brazil
-- I studied [Molecular Sciences](http://www.cecm.usp.br/) at Universidade de São Paulo
-- Today I work with Bioinformatics and Data Science at [Varsomics/Hospital Albert Einstein](https://varsomics.com/)
-- I am also a grad student at Universidade de São Paulo, studying the mutational signatures of cancer and [how to detect them in clinical samples](https://github.com/PedroSebe/signature-inference)
+- Data scientist/bioinformatician @ [Varsomics/Hospital Albert Einstein](https://varsomics.com/)
+- B.Sc. in [Molecular Sciences](http://www.cecm.usp.br/) @ Universidade de São Paulo
+- Pursuing a Master's Degree @ Universidade de São Paulo, working in a research project about [mutational signatures in cancer](https://github.com/PedroSebe/signature-inference)
 
 # ✨ My main interests
+*(click to expand)*
 <details><summary>Bioinformatics</summary>
   Bioinformatics is the interdisciplinary area applying methods from Computer Science to solve Biology problems, specially in Molecular Biology. At Hospital Albert Einstein, I use Bioinformatics tools to analyse data from the clinical lab at Hospital Albert Einstein, in the areas of Oncology (detection of fusions in RNAseq, identification of mutational signatures) and Metagenomics/Metatranscriptomics (identification of pathogens).
 </details>
@@ -28,9 +28,10 @@
 </details>
 
 # ✔️ My skills
+*(click to expand)*
 <details><summary>Programming languages</summary>
   <ul>
-    <li>Experient in Python and Bash</li>
+    <li>Proficient in Python and Bash</li>
     <li>Learning R</li>
     <li>Notions of C, JS and PHP</li>
   </ul>
@@ -51,7 +52,7 @@
     <li>Variant annotation with snpEff and Annovar</li>
     <li>Taxonomic classification with Kraken</li>
     <li>Genetic analysis with Plink</li>
-    <li>Miscellaneous tasks with samtools and bedtools</li>
+    <li>Genomic data manipulation with samtools and bedtools</li>
   </ul>
 </details>
 <details><summary>Miscellaneous</summary>
