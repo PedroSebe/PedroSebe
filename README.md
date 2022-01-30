@@ -46,16 +46,16 @@
 </details>
 <details><summary>Bioinformatics tools</summary>
   <ul>
-    <li>NGS quality control and filtering with AfterQC and FastQC</li>
-    <li>De novo assembly with SPAdes</li>
-    <li>Variant calling with GATK tools and Freebayes</li>
-    <li>Variant annotation with snpEff and Annovar</li>
-    <li>Taxonomic classification with Kraken</li>
-    <li>Genetic analysis with Plink</li>
-    <li>Genomic data manipulation with samtools and bedtools</li>
+    <li>NGS quality control and filtering with <b>AfterQC</b> and <b>FastQC</b></li>
+    <li>De novo assembly with <b>SPAdes</b></li>
+    <li>Variant calling with <b>GATK</b> tools and <b>Freebayes</b></li>
+    <li>Variant annotation with <b>snpEff</b> and <b>Annovar</b></li>
+    <li>Taxonomic classification with <b>Kraken</b></li>
+    <li>Genetic analysis with <b>Plink</b></li>
+    <li>Genomic data manipulation with <b>samtools</b> and <b>bedtools</b></li>
   </ul>
 </details>
-<details><summary>Miscellaneous</summary>
+<details><summary>Other data/programming skills</summary>
   <ul>
     <li>Version control with <b>Git</b>.</li>
     <li>Basic relational database queries with <b>SQL</b></li>
