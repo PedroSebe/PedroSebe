@@ -64,6 +64,9 @@
   </ul>
 </details>
 
+<!-- StackExchange Flair -->
+<a href="https://stackexchange.com/users/11586758"><img src="https://stackexchange.com/users/flair/11586758.png?theme=dark" width="208" height="58" alt="profile for PedroSebe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for PedroSebe on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 <!--
 ## 💡 What I want to learn next
 
